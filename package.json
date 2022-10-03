@@ -2,7 +2,7 @@
   "name": "to-do-list-react",
   "version": "0.1.0",
   "private": true,
-  "proxy":"https://localhost:3000",
+  "proxy": "https://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -42,5 +42,8 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "server.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
